@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/siel/dev/learncpp20/profc++/build",
+  "command": "/usr/bin/g++-11    -g   -o src/CMakeFiles/profCpp.dir/main.cpp.o -c /home/siel/dev/learncpp20/profc++/src/main.cpp",
+  "file": "/home/siel/dev/learncpp20/profc++/src/main.cpp"
+}
+]

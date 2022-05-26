@@ -1,0 +1,59 @@
+Start testing: May 16 12:34 -05
+----------------------------------------------------------
+2/2 Testing: str
+2/2 Test: str
+Command: "/home/siel/dev/learncpp20/profc++/build/tests" "str"
+Directory: /home/siel/dev/learncpp20/profc++/build
+"str" start time: May 16 12:34 -05
+Output:
+----------------------------------------------------------
+Filters: str
+Randomness seeded to: 3043322254
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+tests is a Catch2 v3.0.0-preview.5 host application.
+Run with -? for options
+
+-------------------------------------------------------------------------------
+str
+-------------------------------------------------------------------------------
+/home/siel/dev/learncpp20/profc++/test/test_func.cpp:21
+...............................................................................
+
+/home/siel/dev/learncpp20/profc++/test/test_func.cpp:21: FAILED:
+due to a fatal error condition:
+  SIGSEGV - Segmentation violation signal
+
+===============================================================================
+test cases: 1 | 1 failed
+assertions: 1 | 1 failed
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"str" end time: May 16 12:34 -05
+"str" time elapsed: 00:00:00
+----------------------------------------------------------
+
+1/2 Testing: true
+1/2 Test: true
+Command: "/home/siel/dev/learncpp20/profc++/build/tests" "true"
+Directory: /home/siel/dev/learncpp20/profc++/build
+"true" start time: May 16 12:34 -05
+Output:
+----------------------------------------------------------
+Filters: true
+Randomness seeded to: 2096497861
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"true" end time: May 16 12:34 -05
+"true" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 16 12:34 -05

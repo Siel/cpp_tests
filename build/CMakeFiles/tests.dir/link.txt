@@ -1,0 +1,1 @@
+/usr/bin/g++-11   -std=c++20 -fmodules-ts -Wall -Weffc++ -Wextra -Wsign-conversion -O3 -g -g  -rdynamic CMakeFiles/tests.dir/test/test_func.cpp.o CMakeFiles/tests.dir/src/func.cxx.o  -o tests  lib/Catch2/src/libCatch2Maind.a lib/Catch2/src/libCatch2d.a 
