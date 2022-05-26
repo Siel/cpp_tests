@@ -1,7 +1,0 @@
-true 14 0.00167122
-Hello_World_mod 1 0.00174578
-Bugs, 0 0
-str 0 0
-matcher 0 0
----
-matcher

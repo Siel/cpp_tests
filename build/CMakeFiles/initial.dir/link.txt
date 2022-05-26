@@ -1,1 +1,0 @@
-/usr/bin/g++-11   -std=c++20 -fmodules-ts -Wall -Weffc++ -Wextra -Wsign-conversion -O3 -g -g  -rdynamic CMakeFiles/initial.dir/src/func.cxx.o CMakeFiles/initial.dir/src/main.cpp.o  -o initial 

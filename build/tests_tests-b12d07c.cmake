@@ -1,5 +1,0 @@
-add_test( true [==[/home/siel/dev/learncpp20/profc++/build/tests]==] true  )
-set_tests_properties( true PROPERTIES WORKING_DIRECTORY [==[/home/siel/dev/learncpp20/profc++/build]==])
-add_test( matcher [==[/home/siel/dev/learncpp20/profc++/build/tests]==] matcher  )
-set_tests_properties( matcher PROPERTIES WORKING_DIRECTORY [==[/home/siel/dev/learncpp20/profc++/build]==])
-set( tests_TESTS true matcher)
